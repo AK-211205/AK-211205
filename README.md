@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaliya Khadija</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-211205&label=Profile%20views&color=0e75b6&style=flat" alt="ak-211205" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@22bcs0022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22bcs0022" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/22bcs0022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/22bcs0022" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aaliya_2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaliya_2112" height="30" width="40" /></a>
 </p>
 
