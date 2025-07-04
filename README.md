@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khadijaaaliya21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eCPHcfEF4CziXc1leKAkaRZ5k0tVF1UW/view?usp=sharing](https://drive.google.com/file/d/1eCPHcfEF4CziXc1leKAkaRZ5k0tVF1UW/view?usp=sharing)
+- 📄 Know about my experiences [ https://drive.google.com/file/d/15ZYg3JsAdqe7M4iHbrtgRnRMyDdROQMm/view?usp=sharing]( https://drive.google.com/file/d/15ZYg3JsAdqe7M4iHbrtgRnRMyDdROQMm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
